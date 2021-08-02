@@ -1,0 +1,21 @@
+﻿  game.cpp
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\bhtree.h(5,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\bhtree.h(6,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(72,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(73,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(218,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(223,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(224,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(271,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(272,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(276,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(277,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(279,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\Eden Galaxy S10 Ultra\game.cpp(280,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  61 of 827 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Eden Galaxy S10 Ultra.vcxproj -> C:\Users\benwh\source\repos\Eden Galaxy S10 Ultra\x64\Release\Eden Galaxy S10 Ultra.exe
